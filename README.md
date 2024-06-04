@@ -1,5 +1,7 @@
 # Seekers Real Estate Application
 
+![IMG_5177](https://github.com/mar19a/Seekers/assets/84360137/9c586d32-4ddf-4e20-b287-47fe25cc703f)
+
 Seekers is a comprehensive real estate application designed to help users find homes and explore local businesses. Our platform offers seamless property search, agent information, and local business recommendations, providing a holistic approach to finding the perfect home.
 
 Website made by Mariano Majano Amaya and Gary Dong.
@@ -8,13 +10,37 @@ You can find the demo here: https://youtu.be/PlX1SiR-Ezk
 
 ## Features
 
-- **User Authentication**: Secure signup and login functionality using MySQL.
-- **Agent Profiles**: Detailed information about real estate agents, including their specialties, experience, and contact information.
 - **Property Search**: Users can search for properties based on city, address, or ZIP code.
-- **Local Business Search**: Users can explore local businesses in the area, enhancing their home search experience.
+
+![IMG_5178](https://github.com/mar19a/Seekers/assets/84360137/7b08a487-a899-4bba-ad5a-d195895393fa)
+
 - **Interactive Map**: Google Maps integration to display property locations and details.
-- **News Feed**: Latest news updates relevant to the real estate market.
-- **Contact Form**: Users can easily reach out for support or inquiries.
+
+![IMG_5179](https://github.com/mar19a/Seekers/assets/84360137/5f470506-bac3-42cd-8556-18a8727677fa)
+
+- **Local Business Search**: Users can explore local businesses in the area, enhancing their home search experience.
+
+![IMG_5199](https://github.com/mar19a/Seekers/assets/84360137/d2453613-89a7-4c2f-92c0-7c26588a1609) ![IMG_5200](https://github.com/mar19a/Seekers/assets/84360137/489a6d74-6272-4b19-a899-43fd25280971)
+
+- **News Feed**: Latest news based on your desired location.
+
+![IMG_5180](https://github.com/mar19a/Seekers/assets/84360137/452bdfa3-11bb-445a-9388-454e165526e9)
+
+- -**Market Insights**: Latest trends and data to the real estate market.
+
+![IMG_5181](https://github.com/mar19a/Seekers/assets/84360137/d8d81ab5-5aef-4054-9517-89e429c942b3)
+
+- **Agent Profiles**: Detailed information about real estate agents, including their specialties, experience, and contact information.
+
+![IMG_5182](https://github.com/mar19a/Seekers/assets/84360137/08b9ced6-c56b-417f-962c-3e53beeafe25)
+
+- **Contact Form**: Users can easily reach out for support or inquiries using FormSpree.
+
+![IMG_5191](https://github.com/mar19a/Seekers/assets/84360137/594b61ff-80ea-4232-b049-db62d0e3e73b)![IMG_5192](https://github.com/mar19a/Seekers/assets/84360137/8736d115-6256-4490-9e6a-a354ed5e5102) ![IMG_5193](https://github.com/mar19a/Seekers/assets/84360137/e88a18d3-c8e3-4817-81c2-e4be6a06f1e1)
+
+- **User Authentication**: Secure signup and login functionality using MySQL or Google OAuth.
+
+![IMG_5195](https://github.com/mar19a/Seekers/assets/84360137/82353d95-2abb-4cd2-afcb-2b4a68ae9997) ![IMG_5196](https://github.com/mar19a/Seekers/assets/84360137/d5bede68-85b0-4a16-a882-93d1d2729097) ![IMG_5201](https://github.com/mar19a/Seekers/assets/84360137/004f9502-9d36-4b4a-866d-6060c6d142a0)
 
 ## Technologies Used
 
