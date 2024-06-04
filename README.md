@@ -23,6 +23,7 @@ You can find the demo here: https://youtu.be/PlX1SiR-Ezk
 - **Database**: MySQL
 - **Styling**: CSS, TailwindCSS
 - **Authentication**: Google OAuth, Formspree
+- **APIs** Zillow API, Local Business Data from RapidAPI, and News API.
 - **Others**: gapi-script, React Icons
 
 ## Installation
